@@ -1,2 +1,2 @@
 while True:
-  print(12222)
+  print(1222)
